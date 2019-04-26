@@ -1,6 +1,6 @@
 # Amazon Alexa Reviews Analysis with Random Forest and Gradient Boosting Classifier
 
-![plot](distplot.jpg) <br>
+![plot](distplot.JPG) <br>
 
 The data used for this project can found [here](https://www.kaggle.com/sid321axn/amazon-alexa-reviews) <br>
 **Thank you for going through my GitHub repository!**<br><br>
